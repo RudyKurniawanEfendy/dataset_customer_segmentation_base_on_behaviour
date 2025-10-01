@@ -19,7 +19,7 @@ The dataset has been processed through the following pipeline:
 ## 🔗Citation
 If you use this dataset for your research, please cite the following work:
 ```text
-J. N. Saputra, R. K. Efendy, F. H. A. Hadad, & K. Purwandari. (2025). A Comparative Analysis of K-Means++ and DBSCAN Clustering Algorithms for Customer Segmentation base on behaviour in Indonesian E-commerce.
+J. N. Saputra, R. K. Efendy, F. A. A. Hadad, & K. Purwandari. (2025). A Comparative Analysis of K-Means++ and DBSCAN Clustering Algorithms for Customer Segmentation base on behaviour in Indonesian E-commerce.
 ```
 ## 📜License
 This dataset is provided for research and academic use only.
