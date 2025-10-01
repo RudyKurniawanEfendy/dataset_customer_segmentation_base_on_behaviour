@@ -1,0 +1,158 @@
+Berapa kelompok usia Anda?,Apa jenis kelamin Anda?,Apa pekerjaan Anda?,Produk apa yang paling sering Anda beli secara online? ,Seberapa sering Anda berbelanja online atau daring dalam sebulan?,Berapa rata-rata pengeluaran Anda setiap kali berbelanja online? ,Apa yang biasanya mendorong Anda untuk berbelanja di e-commerce? ,Faktor apa yang paling memengaruhi keputusan Anda dalam membeli produk? ,Apakah Anda cenderung membeli jenis produk yang sama secara berulang?,Aplikasi/situs belanja apa yang sering Anda gunakan?,Berapa lama rata-rata waktu yang Anda habiskan saat dalam satu sesi belanja online?,Kapan terakhir kali Anda melakukan pembelian online?,Apakah Anda sering berbelanja di toko atau merek yang sama?
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Makanan & Minuman,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Ulasan dari pelanggan,Jarang,Shopee,5 - 10 menit,Sering,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Mengikuti Trend,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Jarang,Jarang
+< 18 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+< 18 Tahun,Laki-laki,Pelajar / Mahasiswa,Makanan & Minuman,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Jarang,Shopee,10 - 30 menit,Jarang,Kadang-kadang
+< 18 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Tidak Pernah,Shopee,< 5 menit,Jarang,Kadang-kadang
+< 18 Tahun,Perempuan,Pelajar / Mahasiswa,Makanan & Minuman,Tidak pernah,< Rp. 100.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Shopee,5 - 10 menit,Jarang,Jarang
+< 18 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Tidak Pernah,Tokopedia,5 - 10 menit,Jarang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,3 - 5 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Sering,Shopee,30 menit - 1 jam,Sering,Sering
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Otomotif,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Jarang,Shopee,< 5 menit,Jarang,Tidak pernah
+24 - 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,Lebih dari 10 kali,> Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Selalu,Shopee,10 - 30 menit,Selalu,Selalu
+> 30 Tahun,Perempuan,Wirausaha,Makanan & Minuman,3 - 5 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Jarang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Makanan & Minuman,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Selalu,Shopee,5 - 10 menit,Kadang-kadang,Selalu
+24 - 30 Tahun,Perempuan,Wirausaha,Fashion,Lebih dari 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Sering,Sering
+24 - 30 Tahun,Perempuan,swasta,Makanan & Minuman,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Perempuan,Wirausaha,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Selalu,Tokopedia,5 - 10 menit,Kadang-kadang,Selalu
+> 30 Tahun,Laki-laki,Karyawan Swasta,Elektronik,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Jarang,Shopee,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Tidak Pernah,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Fashion,3 - 5 kali,> Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Kadang-kadang,Shopee,> 1 jam,Kadang-kadang,Sering
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Mengikuti Trend,Informasi dari internet / pengetahuan pribadi,Jarang,Shopee,10 - 30 menit,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Acesoris,1 - 2 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Tik tok ,5 - 10 menit,Kadang-kadang,Jarang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,> 1 jam,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pekerja Swasta ,Elektronik,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Selalu,Tiktok shop,5 - 10 menit,Kadang-kadang,Sering
+> 30 Tahun,Laki-laki,Pensiunan ,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Kadang-kadang,Lazada,5 - 10 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Ulasan dari pelanggan,Tidak Pernah,Tokopedia,10 - 30 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Sering
+24 - 30 Tahun,Laki-laki,ngedj,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Jarang
+24 - 30 Tahun,Perempuan,Wirausaha,Fashion,Lebih dari 10 kali,Rp. 500.000 - Rp. 1.000.000,Mengikuti Trend,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Karyawan swasta,Fashion,1 - 2 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Tokopedia,5 - 10 menit,Jarang,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Sering
+24 - 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Tokopedia,> 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Kebutuhan pokok,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Jarang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,1 - 2 kali,> Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Sering,Shopee,> 1 jam,Sering,Sering
+> 30 Tahun,Perempuan,Swasta,Produk Kesehatan & Kecantikan,1 - 2 kali,< Rp. 100.000,Mengikuti Trend,Harga / Diskon,Kadang-kadang,Tiktok,5 - 10 menit,Jarang,Kadang-kadang
+> 30 Tahun,Perempuan,Irt,Produk Kesehatan & Kecantikan,1 - 2 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Jarang,Tiktok,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,ibu rumah tangga,Fashion,Lebih dari 10 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,> 1 jam,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Kebutuhan yang mendesak ,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,< 5 menit,Selalu,Kadang-kadang
+> 30 Tahun,Perempuan,IRT,Makanan & Minuman,5 - 10 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Sering,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,10 - 30 menit,Jarang,Selalu
+> 30 Tahun,Perempuan,Swasta,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Selalu,Shopee,10 - 30 menit,Kadang-kadang,Selalu
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,10 - 30 menit,Sering,Sering
+> 30 Tahun,Perempuan,IRT,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,Lebih dari 10 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Lazada,5 - 10 menit,Kadang-kadang,Jarang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Makanan & Minuman,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Mengikuti Trend,Ulasan dari pelanggan,Jarang,Shopee,10 - 30 menit,Sering,Jarang
+24 - 30 Tahun,Perempuan,Irt,Barang lainnya buat dijual lagi,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Tiktok,30 menit - 1 jam,Kadang-kadang,Jarang
+> 30 Tahun,Perempuan,BUMN,Fashion,5 - 10 kali,> Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,> 1 jam,Selalu,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Tokopedia,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,30 menit - 1 jam,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Makanan & Minuman,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,5 - 10 menit,Sering,Sering
+24 - 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,Lebih dari 10 kali,> Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,> 1 jam,Selalu,Selalu
+> 30 Tahun,Perempuan,Wirausaha,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Shopee,10 - 30 menit,Selalu,Kadang-kadang
+24 - 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Sering,Shopee,10 - 30 menit,Sering,Sering
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Jarang,Tokopedia,< 5 menit,Jarang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Informasi dari internet / pengetahuan pribadi,Tidak Pernah,Shopee,10 - 30 menit,Kadang-kadang,Tidak pernah
+> 30 Tahun,Perempuan,Karyawati,Produk Kesehatan & Kecantikan,Lebih dari 10 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Selalu,Lazada,5 - 10 menit,Selalu,Sering
+> 30 Tahun,Perempuan,Karyawan,Produk Kesehatan & Kecantikan,Lebih dari 10 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Sering,Lazada,5 - 10 menit,Sering,Selalu
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,5 - 10 kali,Rp. 100.000 - Rp. 200.000,Mengikuti Trend,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Selalu,Selalu
+> 30 Tahun,Laki-laki,Wirausaha,Makanan & Minuman,Lebih dari 10 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Ulasan dari pelanggan,Sering,Gofood,5 - 10 menit,Sering,Sering
+> 30 Tahun,Laki-laki,Wirausaha,otomotif,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Mengikuti Trend,Informasi dari internet / pengetahuan pribadi,Jarang,Tokopedia,> 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Sesuai kebutuhan ,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Jarang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Elektronik,3 - 5 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Sering,Tokopedia,10 - 30 menit,Sering,Sering
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Ulasan dari pelanggan,Sering,Shopee,10 - 30 menit,Sering,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Kebutuhan rumah tangga alat dapur dll,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Reputasi atau kredibilitas toko,Selalu,Shopee,10 - 30 menit,Selalu,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Kebutuhan rumah tangga,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Selalu,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Fashion,Lebih dari 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,> 1 jam,Sering,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Makanan & Minuman,Lebih dari 10 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,5 - 10 menit,Sering,Sering
+> 30 Tahun,Perempuan,Wirausaha,Fashion,Lebih dari 10 kali,Rp. 100.000 - Rp. 200.000,Mengikuti Trend,Harga / Diskon,Jarang,Shopee,10 - 30 menit,Selalu,Sering
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Shopee,5 - 10 menit,Sering,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Wirausaha,Elektronik,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,30 menit - 1 jam,Sering,Sering
+> 30 Tahun,Perempuan,ibu rumah tangga,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Mengikuti Trend,Harga / Diskon,Kadang-kadang,tiktok,> 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Selalu,Lazada,5 - 10 menit,Sering,Sering
+18 - 23 Tahun,Laki-laki,Wirausaha,Makanan & Minuman,3 - 5 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,5 - 10 menit,Kadang-kadang,Kadang-kadang
+< 18 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,Tidak pernah,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Makanan & Minuman,Lebih dari 10 kali,< Rp. 100.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,5 - 10 menit,Sering,Sering
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Ulasan dari pelanggan,Sering,Shopee,30 menit - 1 jam,Kadang-kadang,Sering
+> 30 Tahun,Perempuan,Wirausaha,Macam2,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,30 menit - 1 jam,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Shopee,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Guru honor,Mainan anak ,Lebih dari 10 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Tiktok ,< 5 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Mengurus rumah tangga,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Jarang,Shopee,10 - 30 menit,Jarang,Kadang-kadang
+24 - 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Selalu,Sering
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Ulasan dari pelanggan,Jarang,Shopee,10 - 30 menit,Kadang-kadang,Jarang
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Sering,Shopee,5 - 10 menit,Sering,Sering
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Jarang,Tokopedia,10 - 30 menit,Jarang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga ,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Irt,Fashion,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Jarang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Fashion,1 - 2 kali,< Rp. 100.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,< 5 menit,Sering,Jarang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Sering,Lazada,> 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Makanan & Minuman,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+< 18 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,5 - 10 menit,Sering,Sering
+> 30 Tahun,Laki-laki,Pengajar,Makanan & Minuman,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Sering,Shopee,< 5 menit,Sering,Sering
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,> 1 jam,Kadang-kadang,Sering
+> 30 Tahun,Perempuan,IRT,Skin care,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Tiktok,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Makanan & Minuman,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Sering
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Elektronik,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,10 - 30 menit,Kadang-kadang,Sering
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Makanan & Minuman,Lebih dari 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Kadang-kadang,Shopee,5 - 10 menit,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Selalu,Shopee,10 - 30 menit,Selalu,Sering
+> 30 Tahun,Perempuan,IRT,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Tokopedia,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Tiktok,5 - 10 menit,Sering,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Produk Kesehatan & Kecantikan,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,5 - 10 menit,Selalu,Selalu
+> 30 Tahun,Perempuan,Wirausaha,Fashion,5 - 10 kali,Rp. 100.000 - Rp. 200.000,Mengikuti Trend,Harga / Diskon,Sering,Shopee,10 - 30 menit,Sering,Selalu
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,< Rp. 100.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Kadang-kadang,Tokopedia,5 - 10 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Perempuan,irt,Fashion,Lebih dari 10 kali,> Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Selalu,Shopee,10 - 30 menit,Selalu,Sering
+> 30 Tahun,Perempuan,Ibu rumah tangga,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Jarang,Shopee,30 menit - 1 jam,Jarang,Jarang
+< 18 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,5 - 10 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Sering
+> 30 Tahun,Laki-laki,Wirausaha,Elektronik,5 - 10 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Sering,Tokopedia,5 - 10 menit,Sering,Kadang-kadang
+24 - 30 Tahun,Perempuan,Bidan therapis,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Jarang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Housewife,Produk Kesehatan & Kecantikan,3 - 5 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,10 - 30 menit,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Tidak Pernah,Shopee,5 - 10 menit,Jarang,Jarang
+24 - 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Kadang-kadang,Tokopedia,10 - 30 menit,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Sering,gofood,10 - 30 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Jarang,Shopee,> 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Makanan & Minuman,Lebih dari 10 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Kadang-kadang,Shopee,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Elektronik,3 - 5 kali,> Rp. 1.000.000,Kebutuhan Rutin,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,5 - 10 menit,Sering,Sering
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Asesoris otomotif,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Kadang-kadang,Shopee,< 5 menit,Kadang-kadang,Jarang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,30 menit - 1 jam,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Wirausaha,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Buruh,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Jarang,Shopee,5 - 10 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Barang yg d butuhkan saja,1 - 2 kali,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Jarang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,5 - 10 menit,Kadang-kadang,Jarang
+> 30 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,< 5 menit,Sering,Selalu
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Shopee,> 1 jam,Sering,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,Lebih dari 10 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,5 - 10 menit,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,5 - 10 kali,> Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Tidak Pernah,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Mengikuti Trend,Harga / Diskon,Jarang,Shopee,5 - 10 menit,Kadang-kadang,Sering
+> 30 Tahun,Perempuan,Wirausaha,Makanan & Minuman,Tidak pernah,< Rp. 100.000,Kebutuhan Rutin,Harga / Diskon,Sering,Shopee,< 5 menit,Tidak pernah,Kadang-kadang
+> 30 Tahun,Perempuan,Ibu rumah tangga,Keperluan rumah tangga,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Sering,Jarang
+18 - 23 Tahun,Perempuan,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Informasi dari internet / pengetahuan pribadi,Sering,Shopee,10 - 30 menit,Sering,Kadang-kadang
+18 - 23 Tahun,Perempuan,Pramuniaga,Fashion,3 - 5 kali,> Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Tidak Pernah,Shopee,5 - 10 menit,Kadang-kadang,Jarang
+18 - 23 Tahun,Perempuan,Pelajar / Mahasiswa,Makanan & Minuman,Lebih dari 10 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Rutin,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Sering,Kadang-kadang
+> 30 Tahun,Laki-laki,Wirausaha,Elektronik,Lebih dari 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Rutin,Harga / Diskon,Selalu,Shopee,10 - 30 menit,Kadang-kadang,Selalu
+> 30 Tahun,Perempuan,Ibu rumah tangga,Fashion,5 - 10 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Shopee,30 menit - 1 jam,Kadang-kadang,Sering
+> 30 Tahun,Laki-laki,Wirausaha,Fashion,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Jarang
+> 30 Tahun,Perempuan,buruh,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Sering,Lazada,10 - 30 menit,Sering,Sering
+24 - 30 Tahun,Perempuan,Wirausaha,Fashion,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Tidak Pernah,Shopee,< 5 menit,Selalu,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,Lebih dari 10 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Informasi dari internet / pengetahuan pribadi,Kadang-kadang,Shopee,10 - 30 menit,Jarang,Kadang-kadang
+> 30 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Jarang,tiktok,10 - 30 menit,Kadang-kadang,Kadang-kadang
+24 - 30 Tahun,Laki-laki,Pelajar / Mahasiswa,Produk Kesehatan & Kecantikan,Tidak pernah,< Rp. 100.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Tidak Pernah,Tokopedia,< 5 menit,Jarang,Jarang
+> 30 Tahun,Perempuan,Wiraswasta,Fashion,3 - 5 kali,Rp. 200.000 - Rp. 500.000,Mengikuti Trend,Harga / Diskon,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Elektronik,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Adanya Diskon Besar / Flash Sale,Harga / Diskon,Kadang-kadang,Tokopedia,10 - 30 menit,Kadang-kadang,Selalu
+< 18 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Rutin,Informasi dari internet / pengetahuan pribadi,Jarang,Shopee,< 5 menit,Jarang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pegawai Negeri Sipil atau Swasta,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Sering,Shopee,10 - 30 menit,Kadang-kadang,Selalu
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Reputasi atau kredibilitas toko,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Adanya Diskon Besar / Flash Sale,Ulasan dari pelanggan,Kadang-kadang,Shopee,10 - 30 menit,Kadang-kadang,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Elektronik,1 - 2 kali,Rp. 100.000 - Rp. 200.000,Kebutuhan Khusus / Mendesak,Ulasan dari pelanggan,Kadang-kadang,Tokopedia,5 - 10 menit,Sering,Kadang-kadang
+18 - 23 Tahun,Laki-laki,Wirausaha,Elektronik,1 - 2 kali,Rp. 200.000 - Rp. 500.000,Kebutuhan Khusus / Mendesak,Harga / Diskon,Kadang-kadang,Tokopedia,5 - 10 menit,Sering,Sering
+18 - 23 Tahun,Laki-laki,Pelajar / Mahasiswa,Fashion,5 - 10 kali,Rp. 500.000 - Rp. 1.000.000,Adanya Diskon Besar / Flash Sale,Reputasi atau kredibilitas toko,Sering,Tokopedia,30 menit - 1 jam,Sering,Sering
